@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Rohan\Programming\C++\Kickstart\2021\H\TranformTheString\Source.cpp(47,18): warning C4018: '<': signed/unsigned mismatch
+C:\Rohan\Programming\C++\Kickstart\2021\H\TranformTheString\Source.cpp(170): warning C4715: 'letterToValue': not all control paths return a value
+  TranformTheString.vcxproj -> C:\Rohan\Programming\C++\Kickstart\2021\H\TranformTheString\Debug\TranformTheString.exe

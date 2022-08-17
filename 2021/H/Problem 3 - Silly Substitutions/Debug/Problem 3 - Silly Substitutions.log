@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Rohan\Programming\C++\Kickstart\2021\H\Problem 3 - Silly Substitutions\Source.cpp(35,31): warning C4018: '<': signed/unsigned mismatch
+C:\Rohan\Programming\C++\Kickstart\2021\H\Problem 3 - Silly Substitutions\Source.cpp(64,35): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Problem 3 - Silly Substitutions.vcxproj -> C:\Rohan\Programming\C++\Kickstart\2021\H\Problem 3 - Silly Substitutions\Debug\Problem 3 - Silly Substitutions.exe
